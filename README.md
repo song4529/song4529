@@ -4,6 +4,10 @@
 
 Hello, I'm **HyunWoo Song**. I am a Java developer from Seoul, Korea.
 
+## 🏫 Education
+
+CodeStates : 2023.02 ~ 2023.08
+
 ## 📚 Stacks
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white"/></a>
