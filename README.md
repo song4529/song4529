@@ -14,8 +14,6 @@ Hello, I'm **HyunWoo Song**. I am a Java developer from Seoul, South Korea.
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-E84E31?style=flat&logo=git&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
