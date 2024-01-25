@@ -29,4 +29,3 @@ Hello, I'm **HyunWoo Song**. I am a Java developer from Seoul, South Korea.
 ## 📫 Contact Me on Social Media
 
 <a href="mailto:gusdn4529@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-008080?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://velog.io/@gusdna4529/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-800080?style=flat&logo=blogger&logoColor=white"/></a>
