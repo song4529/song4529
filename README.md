@@ -4,6 +4,8 @@
 
 Hello, I'm **HyunWoo Song**. I am a Java developer from Seoul, South Korea.
 
+I want to become a developer who continuously improves.
+
 ## 🏫 Education
 
 **CodeStates** : 2023.02 ~ 2023.08
