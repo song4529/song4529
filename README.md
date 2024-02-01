@@ -23,7 +23,7 @@ I want to become a developer who continuously improves.
 
 ## 💡 Projects with My Work
 
-- [**MoviePop**](http://moviepop.online/): Let's find our favorite movie reviews and watch them together!
+- [**MoviePop**](http://moviepop.online/): Let's find our favorite movie reviews and watch them together!!
 
  
 ## 💻 Open Source Work Stats
